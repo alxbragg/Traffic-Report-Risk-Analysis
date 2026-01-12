@@ -15,20 +15,28 @@ Using Python, SQL, and Power BI, the analysis focuses on when and why traffic st
 - Parsing description to map reason for stop
 - Parsing and standardizing date/time fields
 - Handling null and unknown categories
-- Creating derived time-based features (hour of the day)
+- Creating derived time based features (hour of the day)
 
 ## Tools & Technologies
 - Python (pandas & numpy)
 - SQL (PostgreSQL)
 - Power BI
 
+## Key Questions
+- When are drivers most likely to be stopped?
+- Which driver and vehicle characteristics are associated with higher stop frequency?
+- Which violations most commonly lead to traffic stops?
+- How do enforcement patterns differ during low traffic hours?
+- Are late night stops disproportionately frequent relative to traffic volume?
+
 ## Objective
 The goal of this analysis is to identify when and why traffic stops are most likely to occur, and to translate enforcement data into insights that can support driver awareness, risk assessment, and policy evaluation.
 
 ## Key Insights
-- Traffic stops peak disproportionately during late-night hours (10–11 PM), despite lower overall traffic volume.
+- Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
 - Speeding is the most common reason for traffic stops across all time periods.
 - Lower traffic density at night increases the likelihood of individual vehicles being singled out for enforcement.
+- Stop frequency varies across observable driver and vehicle attributes, with higher counts among commonly represented vehicle categories, reflecting exposure rather than elevated risk.
 
 ## Dashboard & Visualizations
 An interactive Power BI dashboard was created to visualize:
