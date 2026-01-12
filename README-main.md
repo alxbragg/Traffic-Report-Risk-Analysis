@@ -54,3 +54,8 @@ The dashboard is designed to support quick exploration of enforcement patterns a
 - Around 50% of the stop reasons and 14% of car makes could not be accurately mapped.
 - Traffic volume data was not directly available; conclusions are based on stop frequency patterns.
 - Enforcement practices may vary over time due to policy or staffing changes.
+
+## Future Improvements
+- Integrate traffic volume or population data to normalize stop frequency.
+- Expand the analysis to include additional counties or statewide data.
+- Improve classification of stop reasons and vehicle makes to reduce unknown categories.
