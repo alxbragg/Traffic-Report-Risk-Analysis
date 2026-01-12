@@ -7,7 +7,7 @@ Due to file size limitations, the full datasets used in this project are not sto
 - Description: Original unmodified traffic stop records as published by Montgomery County.
 
 ## Processed Data
-- Uploaded full ipynb file used from Google Colab
+- Uploaded full ipynb file used from Google Colab [Notebook](data/clean/Traffic_data.ipynb)
 - Description: Cleaned and transformed version of the raw dataset, generated via the data cleaning pipeline in the notebooks directory.
 
 Instructions for reproducing the cleaned dataset are provided in the analysis notebooks.
