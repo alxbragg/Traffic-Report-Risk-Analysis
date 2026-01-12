@@ -38,6 +38,8 @@ An interactive Power BI dashboard was created to visualize:
 
 The dashboard is designed to support quick exploration of enforcement patterns and time-based risk.
 
+
+
 ### Limitations & Assumptions
 - The dataset is limited to a single county in Maryland and may not generalize to other regions.
 - Around 50% of the stop reasons and 14% of car makes could not be accurately mapped.
