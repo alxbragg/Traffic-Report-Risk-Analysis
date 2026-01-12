@@ -38,7 +38,8 @@ An interactive Power BI dashboard was created to visualize:
 
 The dashboard is designed to support quick exploration of enforcement patterns and time-based risk.
 
-
+![Main Page](images/dashboard_page_1.png)
+![Map Page](images/dashboard_page_2.png)
 
 ### Limitations & Assumptions
 - The dataset is limited to a single county in Maryland and may not generalize to other regions.
