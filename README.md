@@ -34,6 +34,7 @@ The goal of this analysis is to identify when and why traffic stops are most lik
 
 ## Key Insights
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
+  -- like
 - Speeding is the most common reason for traffic stops across all time periods.
 - Lower traffic density at night increases the likelihood of individual vehicles being singled out for enforcement.
 - Stop frequency varies across observable driver and vehicle attributes, with higher counts among commonly represented vehicle categories, reflecting exposure rather than elevated risk.
