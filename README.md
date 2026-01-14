@@ -1,7 +1,8 @@
 # Traffic Stop Analysis - Driver Risk & Enforcement Patterns
 
-This project analyzes over 2 million traffic stop records from a single county in Maryland to identify patterns in enforcement behavior, driver risk, and temporal trends. 
-Using Python, SQL, and Power BI, the analysis focuses on when and why traffic stops are most likely to occur, translating raw public data into actionable insights.
+## Executive Summary
+This analysis examines approximately more than **2.0 million** traffic stop records from Montgomery County, Maryland (2012–2025) to identify patterns in enforcement behavior, driver risk, and time-of-day trends. Traffic stops peak disproportionately during late night hours **(10–11 PM)** despite lower overall traffic volume, suggesting increased enforcement selectivity when fewer vehicles are on the road. Speeding is the most common reason for traffic stops across all periods, with the highest frequency occurring during morning commute hours, consistent with time-pressure commuter behavior. Differences in stop frequency across driver and vehicle characteristics largely reflect exposure effects rather than elevated individual risk. Due to the absence of traffic volume data, findings should be interpreted as stop-frequency patterns rather than normalized risk rates.
+
 
 ## Source
 - Source: Public traffic stop records
