@@ -34,12 +34,13 @@ The goal of this analysis is to identify when and why traffic stops are most lik
 
 ## Key Insights
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
-  - This is likely due to greater visibility for law enforcement to spot vehicles driving at high speeds, or driving more erratic.
+  - This suggests higher enforcement visibility and discretion at night, where sparse traffic makes speeding, impaired driving, or erratic behavior easier to detect.
 - Speeding is the most common reason for traffic stops across all time periods.
   - However, traffic stops related to speeding occur most often in the morning hpurs. This is higher by 77% comparison to the overall highest traffic stop hour (10pm).
   - This is likely linked to drivers running late for work.
-- Lower traffic density at night increases the likelihood of individual vehicles being singled out for enforcement.
-- Stop frequency varies across observable driver and vehicle attributes, with higher counts among commonly represented vehicle categories, reflecting exposure rather than elevated risk.
+- Lower nighttime traffic density increases enforcement selectivity, making individual vehicles more likely to be singled out for stops compared to daytime conditions with higher traffic volume.
+- Observed differences in stop frequency across driver and vehicle characteristics largely reflect exposure effects rather than elevated risk.
+  - Vehicle types and driver groups that appear more frequently in stop data are also those more commonly present on the road, suggesting proportional enforcement rather than targeted disparities.
 
 ## Dashboard & Visualizations
 An interactive Power BI dashboard was created to visualize:
