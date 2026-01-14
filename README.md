@@ -14,11 +14,11 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 ## Data & Preparations
 
 <p align="center">
-  <img src="images/scheme1.png" width="45%" />
+  <img src="images/scheme1.png" width="45%" height="200px" />
 </p>
 
 <p align="center">
-  <img src="images/scheme2.png" width="45%" />
+  <img src="images/scheme2.png" width="45%" height="200px" />
 </p>
 
 - Normalizing vehicle make values
