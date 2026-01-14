@@ -30,7 +30,7 @@ Using Python, SQL, and Power BI, the analysis focuses on when and why traffic st
 - Are late night stops disproportionately frequent relative to traffic volume?
 
 ## Objective
-The goal of this analysis is to identify when and why traffic stops are most likely to occur, and to translate enforcement data into insights that can support driver awareness, risk assessment, and policy evaluation.
+The goal of this analysis is to identify when and why traffic stops are most likely to occur, and to translate enforcement data into insights that can support risk assessment, policy evaluation and enforcement allocation.
 
 ## Key Insights
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
