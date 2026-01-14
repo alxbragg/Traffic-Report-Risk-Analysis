@@ -37,7 +37,7 @@ The goal of this analysis is to identify when and why traffic stops are most lik
   - This suggests higher enforcement visibility and discretion at night, where sparse traffic makes speeding, impaired driving, or erratic behavior easier to detect.
 - Speeding is the most common reason for traffic stops across all time periods.
   - However, traffic stops related to speeding occur most often in the morning hpurs. This is higher by 77% comparison to the overall highest traffic stop hour (10pm).
-  - This is likely linked to drivers running late for work.
+  - This pattern is consistent with commuter behavior, where time pressure during morning rush hours increases the likelihood of speeding.
 ![Speeding Chart](images/speeding_time_chart.png)
 - Lower nighttime traffic density increases enforcement selectivity, making individual vehicles more likely to be singled out for stops compared to daytime conditions with higher traffic volume.
 - Observed differences in stop frequency across driver and vehicle characteristics largely reflect exposure effects rather than elevated risk.
