@@ -36,7 +36,7 @@ The goal of this analysis is to identify when and why traffic stops are most lik
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
   - This suggests higher enforcement visibility and discretion at night, where sparse traffic makes speeding, impaired driving, or erratic behavior easier to detect.
 - Speeding is the most common reason for traffic stops across all time periods.
-  - However, traffic stops related to speeding occur most often in the morning hpurs. This is higher by 77% comparison to the overall highest traffic stop hour (10pm).
+  - However, traffic stops related to speeding occur most often in the morning hours. This is higher by 77% in comparison to speeding reated incidents at 10pm.
   - This pattern is consistent with commuter behavior, where time pressure during morning rush hours increases the likelihood of speeding.
 <p align="center">
   <img src="images/speeding_time_chart.png" alt="Speeding Chart" width="500">
