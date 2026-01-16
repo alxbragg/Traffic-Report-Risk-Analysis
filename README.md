@@ -42,6 +42,13 @@ This analysis examines approximately more than **2.0 million** traffic stop reco
 ## Key Insights
 - Traffic stops peak disproportionately during late night hours (10–11 PM), despite lower overall traffic volume.
   - This suggests higher enforcement visibility and discretion at night, where sparse traffic makes speeding, impaired driving, or erratic behavior easier to detect.
+- Post-pandemic traffic stops increase earlier in the day and remain more evenly distributed across daytime and evening hours, diverging from pre-pandemic patterns that were more concentrated around traditional commute periods.
+
+<p align="center">
+  <img src="images/post-pandemic-stops.png" alt="Post-Pandemic Stops" width="500">
+</p>
+
+  
 - Speeding is the most common reason for traffic stops across all time periods.
   - However, traffic stops related to speeding occur most often in the morning hours. This is higher by 77% in comparison to speeding reated incidents at 10pm.
   - This pattern is consistent with commuter behavior, where time pressure during morning rush hours increases the likelihood of speeding.
