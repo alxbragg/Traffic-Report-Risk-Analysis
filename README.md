@@ -8,7 +8,7 @@ This analysis examines approximately more than **2 million** traffic stop record
 - Source: Public traffic stop records
   https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data
 - Timeframe: 2012–2025
-- Records: ~2.07 million
+- Records: ~2.07 million entries
 - Scope: Montgomery county (Maryland)
 
 ## Data & Preparations
